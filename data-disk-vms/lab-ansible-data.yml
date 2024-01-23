@@ -6,7 +6,10 @@
   "file_id": ""
   "interface": "scsi0"
   "iothread": true
+  "label": "ssh_keys"
+  "mountpoint": "/var/lib/ansible"
   "path_in_datastore": "95001022/vm-95001022-disk-0.qcow2"
+  "read_only": true
   "size": 1
   "speed": []
   "ssd": false
