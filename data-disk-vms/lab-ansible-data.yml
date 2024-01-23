@@ -1,7 +1,13 @@
-"disk_config":
-- "datastore_id": "local-hdd"
-  "label": "ssh_keys"
-  "mountpoint": "/var/lib/ansible"
-  "read_only": true
+"attached_disks":
+- "cache": "none"
+  "datastore_id": "local-hdd"
+  "discard": "ignore"
+  "file_format": "qcow2"
+  "file_id": ""
+  "interface": "scsi0"
+  "iothread": true
+  "path_in_datastore": "95001022/vm-95001022-disk-0.qcow2"
   "size": 1
+  "speed": []
+  "ssd": false
 "vmid": 95001022
