@@ -1,0 +1,7 @@
+"disk_config":
+- "datastore_id": "local-hdd"
+  "label": "ssh_keys"
+  "mountpoint": "/var/lib/ansible"
+  "read_only": true
+  "size": 1
+"vmid": 95001022
