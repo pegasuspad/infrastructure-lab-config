@@ -9,7 +9,7 @@
   "label": "certbot"
   "mountpoint": "/etc/letsencrypt"
   "path_in_datastore": "95000001/vm-95000001-disk-0.qcow2"
-  "read_only": true
+  "read_only": false
   "size": 10
   "speed": []
   "ssd": false
