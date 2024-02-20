@@ -8,9 +8,9 @@
   "iothread": true
   "label": "certbot"
   "mountpoint": "/etc/letsencrypt"
-  "path_in_datastore": "102/vm-102-disk-0.qcow2"
+  "path_in_datastore": "95000001/vm-95000001-disk-0.qcow2"
   "read_only": true
   "size": 10
   "speed": []
   "ssd": false
-"vmid": 102
+"vmid": 95000001
