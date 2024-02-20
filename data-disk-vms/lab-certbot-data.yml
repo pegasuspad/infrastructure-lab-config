@@ -1,0 +1,16 @@
+"attached_disks":
+- "cache": "none"
+  "datastore_id": "local-hdd"
+  "discard": ""
+  "file_format": "qcow2"
+  "file_id": ""
+  "interface": "scsi0"
+  "iothread": true
+  "label": "certbot"
+  "mountpoint": "/etc/letsencrypt"
+  "path_in_datastore": "102/vm-102-disk-0.qcow2"
+  "read_only": true
+  "size": 10
+  "speed": []
+  "ssd": false
+"vmid": 102
