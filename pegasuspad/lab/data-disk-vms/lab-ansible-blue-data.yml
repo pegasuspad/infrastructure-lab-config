@@ -1,0 +1,20 @@
+"attached_disks":
+- "aio": "io_uring"
+  "backup": true
+  "cache": "none"
+  "datastore_id": "lab-hdd"
+  "discard": "ignore"
+  "file_format": "qcow2"
+  "file_id": ""
+  "interface": "scsi0"
+  "iothread": true
+  "label": null
+  "mountpoint": "/var/lib/ansible"
+  "path_in_datastore": "105/vm-105-disk-0.qcow2"
+  "read_only": null
+  "replicate": true
+  "serial": ""
+  "size": 1
+  "speed": []
+  "ssd": false
+"vmid": "105"
